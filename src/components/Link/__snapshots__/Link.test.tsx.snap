@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders link 1`] = `
+<DocumentFragment>
+  <a
+    class="mylink"
+    href="/some-page"
+  >
+    Hello!
+  </a>
+</DocumentFragment>
+`;
